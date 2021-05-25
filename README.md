@@ -1,3 +1,6 @@
+TO IMPLEMENT DAILY DATA IN FUTURE REFER BELOW LINK:
+https://github.com/adrianhajdin/project_corona_tracker/commit/262e0f965acd5ed7bc4fc48f2fc5c451f2914287
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
